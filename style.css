@@ -26,7 +26,6 @@
     color: white;
 }
 
-
 h1 {
     font-size: 4em;
     font-weight: bold;
@@ -92,6 +91,7 @@ em {
     padding: 8px 20px;
     font-size: 150%;
 }
+
 /**Fix to make images the same size in Bootstrap card**/
 .card-img-top {
 width: 100%;
@@ -119,5 +119,14 @@ object-fit: cover;
 }
 
 .footer-copyright {
+    background-color: #8C7F8D;
+    color: white;
+}
+
+.footer-link {
+    padding: 8px 10px;
+}
+
+.footer-link:hover {
     background-color: #8C7F8D;
 }
