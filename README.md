@@ -1,3 +1,3 @@
 # Personal-Portfolio
 
-Created in Brackets from scratch to showcase projects using HTML, CSS, and Bootstrap.
+Created from scratch to practice HTML and CSS and employing responsive web design principles and accessibility considerations. Content-wise I wanted to put a central focus on the resume and just highlight a few projects. 
